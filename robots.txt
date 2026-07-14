@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yuvalhd711-ops.github.io/bakery-and-more-haifa/sitemap.xml
