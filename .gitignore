@@ -1,2 +1,10 @@
 qa/
 tests/__pycache__/
+.autonomy/
+assets/source-v2/
+assets/hero-source-gate*.jpg
+tests/build_v61.py
+tests/render_v6.py
+tests/overflow_probe.py
+assets/desktop-v6.png
+assets/mobile-v6.png

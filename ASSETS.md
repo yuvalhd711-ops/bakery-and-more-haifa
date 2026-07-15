@@ -1,10 +1,9 @@
 # Production asset record
 
-Hero photography base: Unsplash image `photo-1555507036-ab1f4038808a`, used under the Unsplash License.
+All production hero and category artwork is original vector artwork authored for this project.
 
-- Source image: https://images.unsplash.com/photo-1555507036-ab1f4038808a
-- License: https://unsplash.com/license
-- Production derivatives: `hero-desktop.jpg`, `hero-mobile.jpg`, and `og.jpg`
-- Treatment: independent desktop/mobile crops and cohesive warm color grading.
-
-The photography is editorial atmosphere; no claim is made that it depicts the business premises or its exact products.
+- Hero: `hero-desktop-v6.svg`, `hero-mobile-v6.svg`
+- Category assets: `bread.svg`, `pastry.svg`, `coffee.svg`, `sandwich.svg`
+- Visual basis: only the verified public listing categories — bakery, pastry shop, café, sandwiches — plus the verified address Natanzon 19, Haifa.
+- Third-party production imagery: none.
+- External licenses required: none.
